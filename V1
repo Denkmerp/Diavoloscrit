@@ -11,7 +11,8 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     Button1 = "OK" 
 })
 
-
+Local AlarmSound = Instance.new("Audio") 
+AlarmSound.SoundId = "rbxassetid://6432593850"
 
 
 
