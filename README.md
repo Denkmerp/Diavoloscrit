@@ -4,13 +4,13 @@ To roblox and moderators of github, this is geniunely just a test script. We do 
 
 # MAIN
 
-## V1
+__V1__
 
-``loadstring(game:HttpGet("https://raw.githubusercontent.com/Denkmerp/Diavoloscrit/refs/heads/main/V1"))()``
+# ``loadstring(game:HttpGet("https://raw.githubusercontent.com/Denkmerp/Diavoloscrit/refs/heads/main/V1"))()``
 
-## V2
+__V2__
 
-``loadstring(game:HttpGet("https://raw.githubusercontent.com/Denkmerp/Diavoloscrit/refs/heads/main/V2"))()``
+# ``loadstring(game:HttpGet("https://raw.githubusercontent.com/Denkmerp/Diavoloscrit/refs/heads/main/V2"))()``
 
 This script is not intended for exploits but is intended to test the anticheat of one's game. If people want a more harder and complex cheat __THAT__ helps with anticheating for other exploiters in the near future, we can be their first option. 
 Therefore if you want to contact us / shut us down, you may and we will not try to attack back.
