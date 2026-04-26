@@ -6,7 +6,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "WARNING!",
     Text = "FLING IS COMEPLETELY BROKEN / BUGGED!",
     Icon = "rbxassetid://174811607", 
-    Duration = 5,
+    Duration = 10,
     Callback = Instance.new("BindableFunction"),
     Button1 = "OK" 
 })
